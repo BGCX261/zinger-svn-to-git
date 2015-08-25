@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"zinger/models/cup/cupbottom"
+	
+	"$surfaceprop"		"plastic"
+	"%keywords"			"zinger"
+	
+	"$model"			"1"
+}

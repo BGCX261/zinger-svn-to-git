@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"zinger/models/blowgun/blueblowgun"
+	
+	"$surfaceprop"		"wood"
+	"%keywords"			"zinger"
+	
+	"$model"			"1"
+}

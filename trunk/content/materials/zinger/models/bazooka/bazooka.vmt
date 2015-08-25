@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"zinger/models/bazooka/bazooka"
+	
+	"$surfaceprop"		"metal"
+	"%keywords"			"zinger"
+	
+	"$model"			"1"
+}

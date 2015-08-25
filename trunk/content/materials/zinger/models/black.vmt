@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"zinger/models/black"
+	
+	"$surfaceprop"	"Default"
+	"%keywords"		"zinger"
+	
+	"$model"		"1"
+}

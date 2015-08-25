@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"zinger/models/help/white"
+
+	"$surfaceprop"		"plastic"
+	"%keywords"			"zinger"
+	
+	"$model"			"1"
+	"$vertexcolor"		"1"
+}

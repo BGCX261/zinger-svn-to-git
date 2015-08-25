@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"zinger/models/bomb/radar"
+	
+	"$surfaceprop"		"metal"
+	"%keywords"			"zinger"
+	
+	"$model"			"1"
+}

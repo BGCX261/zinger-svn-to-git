@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"zinger/models/cup/forcefield"
+	
+	"$surfaceprop"		"plastic"
+	"%keywords"			"zinger"
+	
+	"$model"			"1"
+	"$vertexalpha"		"1"
+	"$vertexcolor"		"1"
+	"$nocull"			"1"
+}

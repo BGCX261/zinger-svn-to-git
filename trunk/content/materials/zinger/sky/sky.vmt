@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"zinger/sky/sky"
+	
+	"$surfaceprop"	"Default"
+	"%keywords"		"zinger"
+	
+	"$model"		"1"
+	"$vertexalpha"	"1"
+	"$vertexcolor"	"1"
+}

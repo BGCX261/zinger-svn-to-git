@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"zinger/models/magnet/purplemagnet"
+	"$bumpmap"			"zinger/models/magnet/magnet_nrm"
+	
+	"$envmap"			"env_cubemap"
+	"$envmaptint"		"[0.2 0.2 0.2]"
+	
+	"$surfaceprop"		"metal"
+	"%keywords"			"zinger"
+	
+	"$model"			"1"
+}

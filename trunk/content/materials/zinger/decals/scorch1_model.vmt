@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"zinger\decals\scorch"
+	
+	"$decal"			"1"
+	"$decalscale"		"0.5"
+	
+	"$surfaceprop"			"Default"
+	"%keywords"				"zinger"
+	
+	"$alpha"			"0.95"
+	"$translucent"		"1"
+	"$vertexalpha"		"1"
+}
